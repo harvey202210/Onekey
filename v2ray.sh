@@ -1780,10 +1780,8 @@ menu() {
     clear
     echo "#############################################################"
     echo -e "#                   ${RED}v2ray一键安装脚本${PLAIN}                      #"
-    echo -e "# ${GREEN}作者${PLAIN}: Wanhaiyuntao——Harvey                               #"
-    echo -e "# ${GREEN}公司${PLAIN}: Harvey                                    #"
-    echo -e "# ${GREEN}作者${PLAIN}: Harvey                                   #"
-    echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/Harvey                               #"
+    echo -e "# ${GREEN}公司${PLAIN}: 万海云涛                                         #"
+    echo -e "# ${GREEN}作者${PLAIN}: Harvey                                          #"
     echo "#############################################################"
 
     echo -e "  ${GREEN}1.${PLAIN}   安装V2ray-VMESS"
